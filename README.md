@@ -1,4 +1,6 @@
+<h1 align="center">Build and Deploy a Full Stack WhatsApp Clone | Video Calls, Screen Sharing | React.js, TypeScript</h1>
 
+![Demo App](/public/screenshot-for-readme.png)
 
 ## Tech Stack
 
